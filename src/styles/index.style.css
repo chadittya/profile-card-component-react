@@ -13,5 +13,6 @@
     background-position: top left, bottom right;
     background-repeat: no-repeat, no-repeat;
     background-color: hsl(185, 75%, 39%);
+    color: hsl(229, 23%, 23%);
   }
 }
